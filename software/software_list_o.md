@@ -13,6 +13,7 @@
 |Okta|Workflows| |Not vuln|Not vuln|Not vuln|Not vuln| |[Okta’s response to CVE-2021-44228 (“Log4Shell”)  Okta Security](https://sec.okta.com/articles/2021/12/log4shell)|
 |OpenMRS TALK|All| | | | | | |[OpenMRS TALK Link](https://talk.openmrs.org/t/urgent-security-advisory-2021-12-11-re-apache-log4j-2/35341)|
 |Opengear|All| | | | | | |[Opengear Link](https://opengear.zendesk.com/hc/en-us/articles/4412713339419-CVE-2021-44228-aka-Log4Shell-Opengear-products-are-not-affected)|
+|OpenText|All| | | | | |<a href="https://www.opentext.com/support/log4j-remote-code-execution-advisory" rel="nofollow">https://www.opentext.com/support/log4j-remote-code-execution-advisory</a>||
 |Orgavision|All| | | | | | |[Orgavision Link](https://www.orgavision.com/neuigkeiten/sicherheitsluecke-java-library-log4j)|
 |OxygenXML|Author| | |Vulnerable| | |<a href="https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html" rel="nofollow">https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html</a>||
 |OxygenXML|Developer| | |Vulnerable| | |<a href="https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html" rel="nofollow">https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html</a>||
